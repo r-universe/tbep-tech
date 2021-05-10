@@ -18,3 +18,8 @@
 	url = https://github.com/tbep-tech/peptools
 	shallow = true
 	registered = true
+[submodule "Jabbrev"]
+	path = Jabbrev
+	url = https://github.com/fawda123/Jabbrev
+	shallow = true
+	registered = false
