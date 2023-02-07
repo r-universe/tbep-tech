@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/tbep-tech/universe
+	url = https://github.com/tbep-tech/tbep-tech.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "tbeptools"]
