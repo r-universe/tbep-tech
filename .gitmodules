@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/tbep-tech/tbep-tech.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "tbeptools"]
 	path = tbeptools
 	url = https://github.com/tbep-tech/tbeptools
-	shallow = true
-	registered = true
 [submodule "wqtrends"]
 	path = wqtrends
 	url = https://github.com/tbep-tech/wqtrends
-	shallow = true
-	registered = true
 [submodule "peptools"]
 	path = peptools
 	url = https://github.com/tbep-tech/peptools
-	shallow = true
-	registered = true
