@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/tbep-tech/tbep-tech.r-universe.dev
 	branch = HEAD
+[submodule "peptools"]
+	path = peptools
+	url = https://github.com/tbep-tech/peptools
 [submodule "tbeptools"]
 	path = tbeptools
 	url = https://github.com/tbep-tech/tbeptools
 [submodule "wqtrends"]
 	path = wqtrends
 	url = https://github.com/tbep-tech/wqtrends
-[submodule "peptools"]
-	path = peptools
-	url = https://github.com/tbep-tech/peptools
