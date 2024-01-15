@@ -5,6 +5,9 @@
 [submodule "peptools"]
 	path = peptools
 	url = https://github.com/tbep-tech/peptools
+[submodule "tbeploads"]
+	path = tbeploads
+	url = https://github.com/tbep-tech/tbeploads
 [submodule "tbeptools"]
 	path = tbeptools
 	url = https://github.com/tbep-tech/tbeptools
