@@ -2,6 +2,12 @@
   {
     "package": "rnoaa",
     "url": "https://github.com/ropensci/rnoaa",
+    "via": ["tbeploads"],
+    "from": "tbeploads"
+  },
+  {
+    "package": "rnoaa",
+    "url": "https://github.com/ropensci/rnoaa",
     "via": ["tbeptools"],
     "from": "tbeptools"
   }
