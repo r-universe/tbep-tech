@@ -9,6 +9,9 @@
 	path = rnoaa
 	url = https://github.com/ropensci/rnoaa
 	registered = false
+[submodule "slrcsap"]
+	path = slrcsap
+	url = https://github.com/tbep-tech/slrcsap
 [submodule "tbeploads"]
 	path = tbeploads
 	url = https://github.com/tbep-tech/tbeploads
