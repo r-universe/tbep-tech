@@ -10,5 +10,11 @@
     "url": "https://github.com/ropensci/rnoaa",
     "via": ["tbeptools"],
     "from": "tbeptools"
+  },
+  {
+    "package": "tbeptools",
+    "url": "https://github.com/tbep-tech/tbeptools",
+    "via": ["tbeploads"],
+    "from": "tbeploads"
   }
 ]
