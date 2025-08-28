@@ -2,7 +2,7 @@
   {
     "package": "rnoaa",
     "url": "https://github.com/ropensci/rnoaa",
-    "via": ["tbeploads"],
+    "via": ["tbeploads", "tbeptools"],
     "from": "tbeploads"
   },
   {
