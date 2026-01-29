@@ -5,10 +5,6 @@
 [submodule "peptools"]
 	path = peptools
 	url = https://github.com/tbep-tech/peptools
-[submodule "rnoaa"]
-	path = rnoaa
-	url = https://github.com/ropensci/rnoaa
-	registered = false
 [submodule "slrcsap"]
 	path = slrcsap
 	url = https://github.com/tbep-tech/slrcsap
