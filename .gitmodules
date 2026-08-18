@@ -11,6 +11,9 @@
 [submodule "tbeploads"]
 	path = tbeploads
 	url = https://github.com/tbep-tech/tbeploads
+[submodule "tbepreport"]
+	path = tbepreport
+	url = https://github.com/tbep-tech/tbepreport
 [submodule "tbeptools"]
 	path = tbeptools
 	url = https://github.com/tbep-tech/tbeptools
